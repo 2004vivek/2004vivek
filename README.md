@@ -21,7 +21,7 @@
  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="40" width="40"/>
 
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="40" width="40"/>
-    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="40" width="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="40" width="40"/>
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2004vivek&show_icons=true&locale=en&layout=compact" alt="2004vivek" /></p>
